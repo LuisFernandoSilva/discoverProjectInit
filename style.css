@@ -35,7 +35,8 @@ body * {
   color: var(--text-color);
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px; /*funcionado em sentido horario começando pelo top*/
   padding: 0 24px;
 }
